@@ -2,7 +2,7 @@
   "minimum_amount": 500,
   "refresh_rate": 30,
   "windows_notification": true,
-  "webhook_enabled": false,
-  "webhook_ping": "<@1234567890987654>",
-  "webhook": "https://discord.com/api/webhooks/xxxxxxxx/xxxxxxxxxxxxxx"
+  "webhook_enabled": true,
+  "webhook_ping": "<@1234038640494121031>",
+  "webhook": "https://discord.com/api/webhooks/1233877840920051794/vc0hHjwLrTKL88iuNG7nAeC57T7aLhEr-wXeq0iihqN4PzYmNram8DH9cavAxKoLXqYg"
 }
